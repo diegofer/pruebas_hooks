@@ -1,0 +1,1 @@
+<?php echo `git pul`;
