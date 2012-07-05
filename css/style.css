@@ -5,7 +5,7 @@ body{
 #main{
 	width: 80%;
 	margin: auto;
-	background: black;
+	background: #999999;
 	height: 500px;
 	padding: 20px;
 }
